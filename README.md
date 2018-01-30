@@ -1674,12 +1674,13 @@
 - [Cloud Native Applications](https://www.manning.com/books/cloud-native-applications) - An intro into cloud computing with insights into automating cloud infrastructures and possibilities with cloud services.
 - [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) - An intro into getting started with the biggest cloud providers and exploring how to go serverless.
 - [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) - An example-driven tutorial that teaches you how to build applications that use an event-driven approach on the back end.
-- [Serverless Apps with Node and Claudia.js](https://www.manning.com/books/serverless-apps-with-node-and-claudiajs) - A guide to building serverless apps on AWS using JavaScript. 
+- [Serverless Apps with Node and Claudia.js](https://www.manning.com/books/serverless-apps-with-node-and-claudiajs) - A guide to building serverless apps on AWS using JavaScript.
 - [Introduction to serverless computing with AWS Lambda](https://www.contino.io/files/Contino-Introduction-to-Serverless-Computing-with-AWS-Lambda.pdf) - Guide about serverless computing on AWS Lambda.
 - [Going serverless](https://leanpub.com/going-serverless) - Building scalable applications with the Serverless Framework and AWS Lambda.
 - [AWS Lambda, Kinesis & Serverless Framework](https://www.udemy.com/code-along-aws-lambda-kinesis-serverless-framework/) - Udemy Course on the Serverless Framework.
 - [The Serverless Framework: Quick Start](http://codemore.teachable.com/p/serverless-framework-qs-node) - Video course which provides a quick start for the Serverless Framework.
 - [Intro to the Serverless Framework](http://codemore.teachable.com/p/serverless-framework-node) - Introduction course for the Serverless Framework.
+- [Serverless Applications with AWS](http://bit.ly/serverless-apps-aws) - Introduction course to Serverless using AWS and Serverless Framework. Build a production like app using the most common AWS services. 
 
 ## Professional services
 
